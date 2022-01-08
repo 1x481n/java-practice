@@ -1,0 +1,3 @@
+[submodule "java-code-examples"]
+	path = java-code-examples
+	url = git@github.com:1x481n/java-code-examples.git
